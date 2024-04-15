@@ -14,8 +14,11 @@ I am very fortunate to be currently advised by [Prof. Steven Ma](https://ysph.ya
 Contact Information
 ======
 Email: jingxuan.xu@yale.edu (jingxuanxu471@gmail.com)
+
 Phone: (+1) 4753554506 (I seldomly answer the phone call since there are so many fraud)
+
 Wechat: xjx1965986323
+
 QQ: 1965986323
 
 
