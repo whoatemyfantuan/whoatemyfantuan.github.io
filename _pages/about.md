@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jingxuan Xu. You can call me fantuan (the Chinese translation of 'Kimbap') either. I was studying [Applied Mathematics](https://www.xjtlu.edu.cn/en/study/undergraduate/applied-mathematics) at [Xi'an Jiaotong Liverpool University](https://www.xjtlu.edu.cn/en). Now I am a Biostatistics student at Yale University. 
+Hi! My name is Jingxuan Xu. You can call me fantuan (the Chinese translation of 'Kimbap') either. I was studying [Applied Mathematics](https://www.xjtlu.edu.cn/en/study/undergraduate/applied-mathematics) at [Xi'an Jiaotong Liverpool University](https://www.xjtlu.edu.cn/en). Now I am a [Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/) student at [Yale University](https://www.yale.edu/). 
 
 A data-driven personal website
 ======
