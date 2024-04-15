@@ -13,7 +13,7 @@ I am very fortunate to be currently advised by [Prof. Steven Ma](https://ysph.ya
 
 Contact Information
 ======
-[Email](mailto:jingxuan.xu@yale.edu): jingxuan.xu@yale.edu (jingxuanxu471@gmail.com)
+Email: jingxuan.xu@yale.edu (jingxuanxu471@gmail.com)
 
 Getting started
 ======
