@@ -10,7 +10,7 @@ main:
     url: /teaching/    
         
   - title: "Math Notes"
-    url: /markdown/
+    url: /math/
     
   - title: "CV"
     url: /cv/
