@@ -20,7 +20,7 @@ Research Experience
 * 2023.12-: Graduate Research Assistant
   * Yale University
   * Using Conditional Graphical Models to construct the clinical human disease network.
-  * Advisor: Porf. Shuangge Ma
+  * Advisor: Prof. Shuangge Ma
  
 * Summer 2022: Industrial Project, Statistical Researcher
   * Liverpool University
