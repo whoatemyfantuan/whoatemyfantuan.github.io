@@ -17,6 +17,10 @@ I am a huge pure math fan! I am willing to discuss any fun facts in pure mathema
 
 I am also a huge rock music fan! My fanvourite band is Pink Floyd. I started my own band during my first year in high school (that is really many years ago!). After going into university, I started to write my own songs. There are many great post-punk and art rock pieces completed. Unfortunately, they are not recorded and made public.
 
+Contents of this website
+======
+Since I am now a student, I have not much contents placed on this website. However, I will ocassionally update my own math notes written in LaTeX and made it public! Feel free to take it if you think my notes is in good format and you are interested in learning some stuff from pure mathematics.
+
 Contact Information
 ======
 Email: jingxuan.xu@yale.edu (jingxuanxu471@gmail.com)
