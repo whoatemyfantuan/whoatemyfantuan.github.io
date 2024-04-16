@@ -11,6 +11,12 @@ Hi! My name is Jingxuan Xu. You can call me fantuan (the Chinese translation of 
 
 I am very fortunate to be currently advised by [Prof. Steven Ma](https://ysph.yale.edu/profile/shuangge-ma/) in School of Public Health, Yale University. I am also currently co-advised by [Dr. Zhenqiu Lin](https://medicine.yale.edu/profile/zhenqiu-lin/) from [Yale Center for Outcome Research and Evaluation (CORE)](https://medicine.yale.edu/core/) and [Dr. Hao Mei](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/f19457567e31409488f1396d3538a2a0.htm) from Renmin University of China, on a project about human disease correlation network analysis.
 
+Personal Interests
+======
+I am a huge pure math fan! I am willing to discuss any fun facts in pure mathematics. My main interest is in the field of analysis, especially in harmonic analysis and partial differential equations. I decide to study more about stochastic differential equations and operator theory in the future.
+
+I am also a huge rock music fan! My fanvourite band is Pink Floyd. I started my own band during my first year in high school (that is really many years ago!). After going into university, I started to write my own songs. There are many great post-punk and art rock pieces completed. Unfortunately, they are not recorded and made public.
+
 Contact Information
 ======
 Email: jingxuan.xu@yale.edu (jingxuanxu471@gmail.com)
