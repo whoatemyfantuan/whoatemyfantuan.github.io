@@ -56,7 +56,6 @@ Skills
   * Advanced: **R**
   * Moderate: **MATLAB, Python**
   * Acquaintance: **Java, Maple**
-* Skill 3
 
 Publications
 ======
