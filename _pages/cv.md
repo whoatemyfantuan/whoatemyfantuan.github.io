@@ -28,6 +28,7 @@ Research Experience
   * Constructed Ghana Mortality Table via Negative Binomial Regression with R
   * Forecasted the mortality rate for Ghana in 2021-2025, using the fitted and forecast mortality table as the dataset and the pricing basis
   * Advisor: Dr. Coffie Emmanuel
+  * Output: [Constructing Ghana Mortality Table via Negative Binomial Regression](../assets/Report_Group5.pdf)
 
 Work experience
 ======
