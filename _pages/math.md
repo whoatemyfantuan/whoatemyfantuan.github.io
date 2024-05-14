@@ -20,6 +20,7 @@ Analysis
 * [Mathematical Analysis](../assets/Notes_on_Introductory_Real_Analysis.pdf) (Still being updated)
 * [Real Analysis](../assets/Real_Analysis.pdf) (Still being updated)
 * Functional Analysis (Preparing)
+* Measure Theory (Preparing)
 
 Algebra
 ======
