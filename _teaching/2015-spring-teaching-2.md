@@ -1,3 +1,12 @@
+---
+permalink: /teaching/
+title: "Teaching"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
 {% include base_path %}
 
-<p>Currently no teaching.</p>
+* Yale BIS623 Advanced Regression Model, Fall 2024-2025, Teaching Fellow
