@@ -23,8 +23,8 @@ Analysis
 * [Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
 
 Algebra
-Introduction to Abstract Algebra: Group, Ring and Field (Preparing)
 ======
+* Introduction to Abstract Algebra: Group, Ring and Field (Preparing)
 
 Geometry
 ======
