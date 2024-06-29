@@ -20,7 +20,8 @@ Pure Mathematics
 
 Analysis
 ------
-* [Mathematical Analysis](../assets/Notes_on_Introductory_Real_Analysis.pdf) (1/2 completed)
+* [Mathematical Analysis I](../assets/Notes_on_Introductory_Real_Analysis.pdf)
+* Mathematical Analysis II (Preparing)
 * [Real Analysis](../assets/Real_Analysis.pdf) (Still being updated)
 * Functional Analysis (Preparing)
 * [Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
