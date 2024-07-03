@@ -41,5 +41,9 @@ Probability and Statistics
 
 Probability
 ------
-* [Classical Probability Theory](../assets/Notes_on_Classical_Probability_Theory.pdf) (1/2 completed)
+* [Classical Probability Theory](../assets/Notes_on_Classical_Probability_Theory.pdf)
 * Measure Theoretic Probability Theory
+
+Statistics
+------
+* Introductory Theory of Statistics
