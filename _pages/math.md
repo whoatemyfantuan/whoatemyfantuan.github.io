@@ -47,3 +47,4 @@ Probability
 Statistics
 ------
 * Introductory Theory of Statistics
+* [Statistical Learning](../assets/Notes_on_Statistical_Learning.pdf) (Still being updated)
