@@ -7,4 +7,4 @@ date: 2024-09-01
 location: "New Haven, USA"
 ---
 
-* Yale BIS623 Advanced Regression Model, Fall 2024-2025, Teaching Fellow
+* Yale BIS623 Advanced Regression Model, Fall 2024-2025, Teaching Fellow. Instructor: Prof. Heping Zhang
