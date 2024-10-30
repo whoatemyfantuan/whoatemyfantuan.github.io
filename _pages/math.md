@@ -23,8 +23,9 @@ Analysis
 * [Mathematical Analysis I: Analysis on the Real Line](../assets/Notes_on_Introductory_Real_Analysis.pdf)
 * Mathematical Analysis II: Analysis on the Real Space (Not started yet)
 * [Real Analysis I: Lebesgue Measure and Integral](../assets/Real_Analysis.pdf) (Still being updated)
-* [Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
+* [Real Analysis II: Abstract Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
 * Functional Analysis (Not Started yet)
+* Measure Theoretic Probability (Preparing)
 
 Algebra
 ------
