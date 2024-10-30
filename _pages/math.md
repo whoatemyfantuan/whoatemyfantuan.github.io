@@ -20,15 +20,14 @@ Pure Mathematics
 
 Analysis
 ------
-* [Mathematical Analysis I](../assets/Notes_on_Introductory_Real_Analysis.pdf)
-* Mathematical Analysis II (Preparing)
-* [Real Analysis](../assets/Real_Analysis.pdf) (Still being updated)
-* Functional Analysis (Preparing)
+* [Mathematical Analysis I: Analysis on the Real Line](../assets/Notes_on_Introductory_Real_Analysis.pdf)
+* Mathematical Analysis II: Analysis on the Real Space (Not started yet)
+* [Real Analysis I: Lebesgue Measure and Integral](../assets/Real_Analysis.pdf) (Still being updated)
 * [Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
+* Functional Analysis (Not Started yet)
 
 Algebra
 ------
-* Introduction to Abstract Algebra: Group, Ring and Field (Preparing)
 
 Geometry
 ------
@@ -36,15 +35,13 @@ Geometry
 Other
 ------
 
-Probability and Statistics
+Statistics and Data Science
 ======
-
-Probability
-------
-* [Classical Probability Theory](../assets/Notes_on_Classical_Probability_Theory.pdf)
-* Measure Theoretic Probability Theory
 
 Statistics
 ------
-* Introductory Theory of Statistics
-* [Statistical Learning](../assets/Notes_on_Statistical_Learning.pdf) (Still being updated)
+* Statistical Inference (Not started yet)
+
+Data Science
+------
+* Deep Learning (Preparing)
