@@ -38,5 +38,5 @@ Other
 
 Scribed Lectures
 ======
-* [S&DS611 Selected Topics in Decision Theory (Yale University, Prof. Harrison Zhou)](./assets/Analysis_I.pdf)
-* [S&DS632 Advanced Optimization Techniques (Yale University, Prof. Sinho Chewi)](./assets/Analysis_I.pdf)
+* [S&DS611 Selected Topics in Decision Theory (Yale University, Prof. Harrison Zhou)](../assets/Scribe_Selected_Topics_in_Statistical_Decision_Theory.pdf)
+* [S&DS632 Advanced Optimization Techniques (Yale University, Prof. Sinho Chewi)](../assets/Scribe_Advanced_Optimization_Techniques.pdf)
