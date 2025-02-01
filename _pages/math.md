@@ -36,13 +36,7 @@ Geometry
 Other
 ------
 
-Statistics and Data Science
+Scribed Lectures
 ======
-
-Statistics
-------
-* Statistical Inference (Not started yet)
-
-Data Science
-------
-* Deep Learning (Preparing)
+* [S&DS611 Selected Topics in Decision Theory (Yale University, Prof. Harrison Zhou)](./assets/Analysis_I.pdf)
+* [S&DS632 Advanced Optimization Techniques (Yale University, Prof. Sinho Chewi)](./assets/Analysis_I.pdf)
