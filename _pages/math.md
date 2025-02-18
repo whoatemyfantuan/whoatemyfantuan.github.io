@@ -15,7 +15,7 @@ Why do this?
 ------
 Why I am doing this when there are so many great books in a wide range of mathematics? Indeed, I am just a lover, and my notes may not have great value. [Dexter Chua's Note](https://dec41.user.srcf.net/notes/) will definitely be more useful and clearer than mine. However, I just think this work is fun and beneficial for integrating my knowledge. Just for fun, no other reasons.
 
-Pure Mathematics
+Reading Notes
 ======
 
 Analysis
@@ -33,7 +33,7 @@ Algebra
 Geometry
 ------
 
-Other
+Statistics
 ------
 
 Scribed Lectures
