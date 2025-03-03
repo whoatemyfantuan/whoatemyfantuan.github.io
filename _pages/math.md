@@ -30,8 +30,8 @@ Geometry
 
 Statistics
 ------
-* [Statistical Inference] (Preparing)
-* [Asymptotic Statistics] (Preparing)
+* Statistical Inference (Preparing)
+* Asymptotic Statistics (Preparing)
 
 Scribed Lectures
 ======
