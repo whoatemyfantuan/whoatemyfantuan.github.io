@@ -17,8 +17,7 @@ Reading Notes
 Analysis
 ------
 * [Mathematical Analysis](../assets/Analysis_I.pdf)
-* [Real Analysis I: Lebesgue Measure and Integral](../assets/Real_Analysis.pdf) (Still being updated)
-* [Real Analysis II: Abstract Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
+* [Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
 * Functional Analysis (Preparing)
 * Measure Theoretic Probability (Preparing)
 
@@ -37,7 +36,4 @@ Scribed Lectures
 ======
 * [S&DS611 Selected Topics in Decision Theory (Yale University, Prof. Harrison Zhou)](../assets/Scribe_Selected_Topics_in_Statistical_Decision_Theory.pdf)
 * [S&DS632 Advanced Optimization Techniques (Yale University, Prof. Sinho Chewi)](../assets/Scribe_Advanced_Optimization_Techniques.pdf)
-
-Literature Collecting
-======
-* Post soon!
+* [S&DS664 Information Theory (Yale University, Prof. Omar Montasser)](../assets/Notes_on_Information_Theory.pdf)
