@@ -34,6 +34,6 @@ Statistics
 
 Scribed Lectures
 ======
-* [S&DS611 Selected Topics in Decision Theory (Yale University, Prof. Harrison Zhou)](../assets/Scribe_Selected_Topics_in_Statistical_Decision_Theory.pdf)
+* [S&DS611 Selected Topics in Decision Theory (Yale University, Prof. Harrison Zhou)](../assets/Scribe_Selected_Topics_in_Statistical_Decision_Theory.pdf) [and a pure version](../assets/611_purenotes.pdf)
 * [S&DS664 Information Theory (Yale University, Prof. Omar Montasser)](../assets/Notes_on_Information_Theory.pdf)
 * [S&DS632 Advanced Optimization Techniques (Yale University, Prof. Sinho Chewi)](../assets/Scribe_Advanced_Optimization_Techniques.pdf)
