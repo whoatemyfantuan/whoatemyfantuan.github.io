@@ -14,7 +14,7 @@ Some of my scribe and reading notes. Feel free to take it if you think it helps.
 Reading Notes
 ======
 * [Mathematical Analysis](../assets/Analysis_I.pdf)
-* [Measure Theory and Probability](../assets/Notes_on_Measure_Theory.pdf) (Updating)
+* [Measure Theory and Probability](../assets/Notes_on_Probability_Theory.pdf) (Updating)
 
 Scribed Lectures
 ======
