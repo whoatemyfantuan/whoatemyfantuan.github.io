@@ -9,28 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-I will put all my reading and scribe notes here. Feel free to take it if you are interested. The reason that I am writing these notes is, I am INTP, which means that I am extremely uncomfortable if my knowledge is not integrated somewhere somehow besides in my mind. Sometimes there are steps missing in the books, important theorems not proved, various messy literature everywhere in my laptop disks, and those will also make me feel uncomfortable.
+Some of my scribe and reading notes. Feel free to take it if you think it helps.
 
 Reading Notes
 ======
-
-Analysis
-------
 * [Mathematical Analysis](../assets/Analysis_I.pdf)
-* [Measure Theory](../assets/Notes_on_Measure_Theory.pdf) (Still being updated)
-* Functional Analysis (Preparing)
-* Measure Theoretic Probability (Preparing)
-
-Algebra
-------
-
-Geometry
-------
-
-Statistics
-------
-* Statistical Inference (Preparing)
-* Asymptotic Statistics (Preparing)
+* [Measure Theory and Probability](../assets/Notes_on_Measure_Theory.pdf) (Updating)
 
 Scribed Lectures
 ======
