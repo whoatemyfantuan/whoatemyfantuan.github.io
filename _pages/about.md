@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jingxuan Xu. You can call me fantuan (the Chinese translation of 'Kimbap') either. I was studying [Mathematics](https://www.xjtlu.edu.cn/en/study/undergraduate/applied-mathematics) at [Xi'an Jiaotong Liverpool University](https://www.xjtlu.edu.cn/en) from 2019 to 2021 and [University of Liverpool](https://www.liverpool.ac.uk/) from 2021 to 2023. Now I am a [Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/) student at [Yale University](https://www.yale.edu/).
+Welcome! This page was last updated on 15/10/2026.
 
-I am very fortunate to be currently advised by [Prof. Steven Ma](https://ysph.yale.edu/profile/shuangge-ma/) in School of Public Health, Yale University. I am also currently co-advised by [Dr. Zhenqiu Lin](https://medicine.yale.edu/profile/zhenqiu-lin/) from [Yale Center for Outcome Research and Evaluation (CORE)](https://medicine.yale.edu/core/) and [Dr. Hao Mei](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/f19457567e31409488f1396d3538a2a0.htm) from Renmin University of China, on a project about analysis of structural temporal variation in marginal human disease clinical treatment network among the elderly.
+My name is Jingxuan (Jason) Xu. I got my BSc in Mathematics through a joint program between [Xi'an Jiaotong Liverpool University](https://www.xjtlu.edu.cn/en/study/undergraduate/applied-mathematics) (2019-2021) and [University of Liverpool](http://liverpool.ac.uk/mathematical-sciences/) (2021-2023). I later earned an MPH in Biostatistics from [Yale University](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/), with my thesis advised by Professor [Shuangge Ma](https://ysph.yale.edu/profile/shuangge-ma/), Professor [Zhenqiu Lin](https://medicine.yale.edu/profile/zhenqiu-lin/) from [Yale Center for Outcome Research and Evaluation (CORE)](https://medicine.yale.edu/core/), and Professor [Hao Mei](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/f19457567e31409488f1396d3538a2a0.htm) from Renmin University of China. Now I am a PhD student in Statistics at [Michigan State University](https://stt.natsci.msu.edu/).
 
 Personal Interests
 ======
