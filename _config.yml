@@ -24,11 +24,11 @@ author:
   avatar           : "4096_016933 (3).jpg"
   name             : "Jingxuan Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Yale University Biostatistics student in School of Public Health"
-  location         : "111 Park St, New Haven, CT"
-  employer         : "Yale University"
+  bio              : "PhD student in Statistics at Michigan State University"
+  location         : "280 Arbor Glen Dr, East Lansing, MI"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "jingxuan.xu@yale.edu" 
+  email            : "xujingxu@msu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/jingxuan-xu-4562a9297"
+  linkedin         : "jingxuan-xu-4562a9297"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -69,7 +69,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/@JasonsMathVideos"
   zhihu            : # URL
 
 
