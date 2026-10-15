@@ -1,5 +1,6 @@
 ---
 title: "Yale University"
+title_link: false
 collection: teaching
 type: "Graduate course"
 venue: "Yale University, School of Public Health"
